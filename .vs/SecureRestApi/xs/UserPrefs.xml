@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{53BCB5BD-A4D4-4994-83B6-5185D1094D30}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SecureRestApi/Startup.cs">
+    <Files>
+      <File FileName="SecureRestApi/Startup.cs" Line="71" Column="34" />
+      <File FileName="SecureRestApi/Controllers/WeatherForecastController.cs" />
+      <File FileName="SecureRestApi/ClientApp/src/app/app.server.module.ts" />
+      <File FileName="SecureRestApi/ClientApp/src/app/app.module.ts" />
+      <File FileName="SecureRestApi/ClientApp/src/app/app.component.html" />
+      <File FileName="SecureRestApi/ClientApp/src/app/app.component.ts" />
+      <File FileName="SecureRestApi/WeatherForecast.cs" />
+      <File FileName="SecureRestApi/ClientApp/src/main.ts" />
+      <File FileName="SecureRestApi/ClientApp/src/polyfills.ts" />
+      <File FileName="SecureRestApi/ClientApp/src/app/nav-menu/nav-menu.component.ts" />
+      <File FileName="SecureRestApi/ClientApp/src/tslint.json" />
+      <File FileName="SecureRestApi/ClientApp/src/tsconfig.app.json" />
+      <File FileName="SecureRestApi/ClientApp/src/app/fetch-data/fetch-data.component.html" />
+      <File FileName="SecureRestApi/ClientApp/src/app/fetch-data/fetch-data.component.ts" />
+      <File FileName="SecureRestApi/ClientApp/src/styles.css" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SecureRestApi" expanded="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.SecureRestApi PreferredExecutionTarget="/Users/lakshmi/Desktop/Firefox.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
