@@ -1,7 +1,7 @@
 ﻿<Properties StartupConfiguration="{53BCB5BD-A4D4-4994-83B6-5185D1094D30}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="SecureRestApi/Startup.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SecureRestApi/ClientApp/src/app/_services/data.service.ts">
     <Files>
-      <File FileName="SecureRestApi/Startup.cs" Line="71" Column="34" />
+      <File FileName="SecureRestApi/Startup.cs" Line="63" Column="17" />
       <File FileName="SecureRestApi/Controllers/WeatherForecastController.cs" />
       <File FileName="SecureRestApi/ClientApp/src/app/app.server.module.ts" />
       <File FileName="SecureRestApi/ClientApp/src/app/app.module.ts" />
@@ -16,11 +16,24 @@
       <File FileName="SecureRestApi/ClientApp/src/app/fetch-data/fetch-data.component.html" />
       <File FileName="SecureRestApi/ClientApp/src/app/fetch-data/fetch-data.component.ts" />
       <File FileName="SecureRestApi/ClientApp/src/styles.css" />
+      <File FileName="SecureRestApi/ClientApp/src/app/_services/data.service.ts" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="SecureRestApi" expanded="True" />
+          <Node name="SecureRestApi" expanded="True">
+            <Node name="SecureRestApi" expanded="True">
+              <Node name="ClientApp" expanded="True">
+                <Node name="src" expanded="True">
+                  <Node name="app" expanded="True">
+                    <Node name="_services" expanded="True">
+                      <Node name="data.service.ts" selected="True" />
+                    </Node>
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+          </Node>
         </State>
       </Pad>
     </Pads>
